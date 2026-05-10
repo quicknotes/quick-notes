@@ -70,10 +70,6 @@ install from https://chromewebstore.google.com/detail/quick-notes/aelknahnnjimda
 4. Click **Load unpacked** and select the `quick-notes` folder.
 5. Pin the extension icon to your toolbar (puzzle-piece menu → pin).
 
-### From Chrome Web Store
-
-*Listing pending publication.*
-
 ## Usage
 
 | Action | Shortcut |
